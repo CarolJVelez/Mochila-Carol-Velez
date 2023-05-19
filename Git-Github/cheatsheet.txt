@@ -1,0 +1,21 @@
+Comandos importantes de git
+-pwd: mostrar la carpeta en la que estoy parada
+-cd: moverme entre carpetas
+-ls: listar contenidos 
+-mkdir: crear carpetas 
+-touch: crear archivos 
+-rm: eliminar archivos 
+-mv: mover, cambiar nombres, etc
+-git init: inicializar el repositorio local
+-git add .: agregar cambios y/o archivos
+-git status: hacer seguimiento a los cambios
+-git commit -m "": guarda los cambios realizados y pone un mensaje sobre el mismo 
+-code .: abrir visual desde la terminal
+-history: ver el historial de archivos
+-git remote add origin url: realiza la union entre el repositorio local y el github 
+-git remote -v: muestra los movimientos que se pueden hacer al repositorio
+-git branch rama: crea una rama en el repositorio
+-git checkout rama: entrar en la rama 
+-git push origin master: envia los cambios y/o archivos al repositorio en Github 
+-git pull origin master: bajar los cambios y/o archivos del Github 
+
