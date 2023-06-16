@@ -1,0 +1,8 @@
+1. Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+R/ la disponibilidad de un lenguaje de programacion de diferentes sistemas operativos depende de factores como la existencia de compiladores y/o interpretes, bibliotecas y frameworks compatibles y el cumplimiento de estandares.
+
+2. Que tipo de maquina virtual es virtualBox?
+R/ Es un software de virtualizacion para arquitecturas x86/amd64
+
+3. Si tengo mas de una maquina virtual instalada y una se rompe, esto afecta a las otras?
+R/ No, ya que estas se ejecutan de manera independiente
