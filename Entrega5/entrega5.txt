@@ -15,3 +15,4 @@ UTILICE EL TELNET
 12. por ultimo git push origin Entrega5 para subir los cambios 
 
 Gracias por todo.! 
+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
