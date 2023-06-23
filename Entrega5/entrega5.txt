@@ -1,0 +1,17 @@
+Para realizar la entrega 5 realice los siguientes pasos
+1. Entrar a la maquina virtual y activar lo del adaptador puente para poder comunicarme a la terminal host y sacar la ip de la maquina virtual
+2. Instale y active el telnet de la maquina virtual
+3. Instale y active el ssh de la maquina virtual 
+ 
+UTILICE EL TELNET 
+4. Entre al cmd de la consola del host y puse el siguiente comando telnet ip para conectarme con la maquina virtual. Es importante aclarar que debo de activar el cliente telnet para poder utilizarlo en windows.
+5. Al colocar ese comando me pide la contrasena y el usuario para entrar 
+6. Estando en la maquina virtual, entro a la carpeta de la mochila y la entrega 5
+7. creo un archivo con touch
+8. modifico ese archivo con los pasos 
+9. realizo el comando git status para verificar los cambios
+10. realizo el git add . para agregar los cambios
+11. realizo el git commit -m "entrega 5"
+12. por ultimo git push origin Entrega5 para subir los cambios 
+
+Gracias por todo.! 
